@@ -92,9 +92,9 @@ This will:
 ---
 
 ## 💬 Sample Output
-=====
+
   Running Ingestion Tool...
-=====
+
 Requirements already installed. Skipping installation.
 ✅ Running latest ingestion_template.py
 
