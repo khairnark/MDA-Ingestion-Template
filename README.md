@@ -16,10 +16,15 @@ This Python-based tool automates the ingestion configuration process by mapping 
 ## 📦 Folder Structure
 IngestionTool/
 ├── demo1.py
+
 ├── ingestion.py
+
 ├── newdtest1.py
+
 ├── ingestion.bat
+
 ├── requirements.txt
+
 └── README.md
 
 ---
@@ -87,9 +92,9 @@ This will:
 ---
 
 ## 💬 Sample Output
-============================
+=====
   Running Ingestion Tool...
-============================
+=====
 Requirements already installed. Skipping installation.
 ✅ Running latest ingestion_template.py
 
