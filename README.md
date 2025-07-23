@@ -100,6 +100,7 @@ Requirements already installed. Skipping installation.
 🔹 Enter the Field ID (as in 'Field Name (with ID)'):
 ---
 
+---
 ## 🆘 Troubleshooting
 
 - ❌ `XLRDError: Excel xlsx file; not supported`:  
